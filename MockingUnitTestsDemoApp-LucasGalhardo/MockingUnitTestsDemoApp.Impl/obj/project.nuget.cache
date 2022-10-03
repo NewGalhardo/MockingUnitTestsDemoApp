@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "RzCo4pJDNHLn8FmN10tj7bpaz6epp7h2QVjz9HrZFkFscXzbVBfhg/kHJvbpZ4utDD5rJp3G5TxijqL46RsCGQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\lucagal\\Downloads\\MockingUnitTestsDemoApp.Impl\\MockingUnitTestsDemoApp.Impl.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lucagal\\.nuget\\packages\\fluentassertions\\6.7.0\\fluentassertions.6.7.0.nupkg.sha512",
+    "C:\\Users\\lucagal\\.nuget\\packages\\system.configuration.configurationmanager\\4.4.0\\system.configuration.configurationmanager.4.4.0.nupkg.sha512",
+    "C:\\Users\\lucagal\\.nuget\\packages\\system.security.cryptography.protecteddata\\4.4.0\\system.security.cryptography.protecteddata.4.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}

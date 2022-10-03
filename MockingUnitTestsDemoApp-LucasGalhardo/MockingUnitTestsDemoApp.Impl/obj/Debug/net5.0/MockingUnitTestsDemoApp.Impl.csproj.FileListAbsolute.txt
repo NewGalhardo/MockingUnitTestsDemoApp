@@ -1,0 +1,12 @@
+C:\Users\lucagal\Downloads\MockingUnitTestsDemoApp.Impl\bin\Debug\net5.0\MockingUnitTestsDemoApp.Impl.deps.json
+C:\Users\lucagal\Downloads\MockingUnitTestsDemoApp.Impl\bin\Debug\net5.0\MockingUnitTestsDemoApp.Impl.dll
+C:\Users\lucagal\Downloads\MockingUnitTestsDemoApp.Impl\bin\Debug\net5.0\MockingUnitTestsDemoApp.Impl.pdb
+C:\Users\lucagal\Downloads\MockingUnitTestsDemoApp.Impl\obj\Debug\net5.0\MockingUnitTestsDemoApp.Impl.csproj.AssemblyReference.cache
+C:\Users\lucagal\Downloads\MockingUnitTestsDemoApp.Impl\obj\Debug\net5.0\MockingUnitTestsDemoApp.Impl.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucagal\Downloads\MockingUnitTestsDemoApp.Impl\obj\Debug\net5.0\MockingUnitTestsDemoApp.Impl.AssemblyInfoInputs.cache
+C:\Users\lucagal\Downloads\MockingUnitTestsDemoApp.Impl\obj\Debug\net5.0\MockingUnitTestsDemoApp.Impl.AssemblyInfo.cs
+C:\Users\lucagal\Downloads\MockingUnitTestsDemoApp.Impl\obj\Debug\net5.0\MockingUnitTestsDemoApp.Impl.csproj.CoreCompileInputs.cache
+C:\Users\lucagal\Downloads\MockingUnitTestsDemoApp.Impl\obj\Debug\net5.0\MockingUnitTestsDemoApp.Impl.dll
+C:\Users\lucagal\Downloads\MockingUnitTestsDemoApp.Impl\obj\Debug\net5.0\refint\MockingUnitTestsDemoApp.Impl.dll
+C:\Users\lucagal\Downloads\MockingUnitTestsDemoApp.Impl\obj\Debug\net5.0\MockingUnitTestsDemoApp.Impl.pdb
+C:\Users\lucagal\Downloads\MockingUnitTestsDemoApp.Impl\obj\Debug\net5.0\ref\MockingUnitTestsDemoApp.Impl.dll
